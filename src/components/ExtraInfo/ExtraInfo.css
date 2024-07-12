@@ -1,0 +1,14 @@
+#extraInfo {
+  position: absolute;
+  bottom: 5px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  color: #fff;
+  padding-bottom: 30px;
+}
+
+#extraInfo h5 {
+  font-size: 1.1rem;
+  text-transform: uppercase;
+}

@@ -1,0 +1,11 @@
+#info {
+  line-height: 0.5rem;
+  color: #fff;
+}
+
+#info h3 {
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0.6em;
+}
