@@ -8,13 +8,13 @@ import "./App.css";
 
 function App() {
   return (
-    <>
+    <div id="app">
       <SearchBar />
       <DateCity />
       <Description />
       <Temp />
       <ExtraInfo />
-    </>
+    </div>
   );
 }
 
