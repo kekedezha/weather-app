@@ -3,7 +3,7 @@ import DateCity from "./components/DateCity/DateCity";
 import Description from "./components/Description/Description";
 import ExtraInfo from "./components/ExtraInfo/ExtraInfo";
 import SearchBar from "./components/SearchBar/SearchBar";
-import Temp from "./components/Temp/Temp";
+import Temp from "./components/Temperature/Temp";
 import "./App.css";
 
 function App() {
