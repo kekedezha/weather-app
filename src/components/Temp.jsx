@@ -1,5 +1,5 @@
 const Temp = () => {
-  return <div>Temp</div>;
+  return <div id="temp">Temp</div>;
 };
 
 export default Temp;
